@@ -1,0 +1,3 @@
+[submodule "WeatherForcast"]
+	path = WeatherForcast
+	url = https://github.com/dagamo/WeatherForcast.git
