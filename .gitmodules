@@ -1,3 +1,6 @@
 [submodule "WeatherForcast"]
 	path = WeatherForcast
 	url = https://github.com/dagamo/WeatherForcast.git
+[submodule "OnboardingFlow"]
+	path = OnboardingFlow
+	url = https://github.com/dagamo/OnboardingFlow.git
